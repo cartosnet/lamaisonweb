@@ -20,7 +20,9 @@ body {
   max-width: 42em;
 }
 
-
+.title{
+  margin-top: 1 rem;
+}
 /*
  * Header
  */
